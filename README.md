@@ -1,2 +1,5 @@
+## Problem setup
+![image](https://github.com/TimidZe/PINNs-2D_Heat_transfer/blob/main/figures/2D-problem-setup.png)
 ## PINNs architecture
-https://github.com/TimidZe/PINNs-2D_Heat_transfer/blob/main/figures/net%20structure.png
+![image](https://github.com/TimidZe/PINNs-2D_Heat_transfer/blob/main/figures/net%20structure.png)
+
